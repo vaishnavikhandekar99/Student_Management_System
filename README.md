@@ -1,2 +1,9 @@
 # Student_Management_System
-The Student Management System is a Java-based project that allows users to perform CRUD (Create, Read, Update, Delete) operations on student records. It provides an efficient and user-friendly interface for adding, viewing, updating, and deleting student information. It is easy to maintain and access student records.
+The Student Management System is a robust and efficient web-based application built using the Spring Boot framework. This application simplifies the management of student-related data, providing functionalities such as student registration, data retrieval, updating records and deletion. It adheres to RESTful principles, ensuring seamless communication between the client and server. <br><br>
+
+•	Implemented CRUD operations for managing student records through RESTful APIs.<br>
+•	Implement controllers, services, and repositories following a layered architecture.<br>
+•	Test REST APIs using Postman to ensure functionality and performance.<br>
+•	Integrate Swagger for documenting and visualizing APIs.<br>
+•	Designed and implemented a custom exception handling mechanism to catch and handle errors in the application.<br><br>
+  Technologies :- Spring Boot, MYSQL 
